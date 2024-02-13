@@ -1,0 +1,14 @@
+header {
+    background-color: red;
+    color: gold;
+    text-align: center;
+}
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+body {
+    background-image: url('https://github.com/NasOmar/assignment-unit-5.2/blob/main/assignment/record.png?raw=true');
+    margin: 0;
+   }
